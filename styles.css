@@ -15,10 +15,10 @@ div>header>h2 {
 	background-color: white;
 	display:inline-block;
 	width:31%;
-	border: 1px solid;
+/* 	border: 1px solid; */
 	padding: 5px;
 	text-align: center;
-	border-radius: 5px;
+	border-radius: 10px;
 	margin:auto;
 	align-items:top;
 }
