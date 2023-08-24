@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+* {
+	background-color:#f5f5f5;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*  */
+div>header>h2 {
+	color: white;
+	background-color: #011e29;
+	text-align:center;
+	padding:15px;
+	margin:auto;
+}
+.card {
+	background-color: white;
+	display:inline-block;
+	width:31%;
+	border: 1px solid;
+	padding: 5px;
+	text-align: center;
+	border-radius: 5px;
+	margin:auto;
+	align-items:top;
+}
+img {
+	width:50%;
+}
+h3,li,p {
+	background-color:white;
+}
+li 
